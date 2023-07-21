@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamalpreet kaur</h1>
 <h3 align="center">I'm 3rd year student, Thapar Institute of Engineering and Technology.</h3>
 
-- 🌱 I’m currently learning **Data Science and Web Developer**
+- 🌱 I’m currently developing my skills in **Data Science and Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
