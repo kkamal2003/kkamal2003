@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamalpreet kaur</h1>
-<h3 align="center">I'm 3rd year student, Thapar Institute of Engineering and Technology.</h3>
+<h3 align="center">I'm final year student, Thapar Institute of Engineering and Technology.</h3>
 
 - 🌱 I’m currently developing my skills in **Data Science and Web Development**
 
